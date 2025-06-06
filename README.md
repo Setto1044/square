@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="/uploads/bc96ee8f7e2d3ddeff27ede48e6afc25/네모투명배경.png" alt="네모투명배경" width="40%" />
-  <img src="/uploads/41b1236fa6adabebd9313caafcc18f07/네모흰색배경.png" alt="네모흰색배경" width="40%" />
+  <img src="uploads/네모투명배경.png" alt="네모투명배경" width="40%" />
+  <img src="uploads/네모흰색배경.png" alt="네모흰색배경" width="40%" />
 </div>
 
 <div>
@@ -81,7 +81,7 @@ SNS에서 벌어지는 생산적인 토론이나 논쟁,
 
 ## 🧩 시스템 아키텍처
 
-![시스템아키텍쳐](/uploads/36fc6da6ce1ff5b3fb42055b26621c46/시스템아키텍쳐.png)
+![시스템아키텍쳐](uploads/시스템아키텍쳐.png)
 
 <br>
 <br>
@@ -125,7 +125,7 @@ SNS에서 벌어지는 생산적인 토론이나 논쟁,
 ## 📜 산출물 
 
 ### ERD
-<img src="/uploads/7ce47f013219186265f693ab9e90cf04/사각_Square___1_.png" alt="네모투명배경" />
+<img src="uploads/사각_Square___1_.png" alt="ERD" />
 
 ### API 명세서
 [🔗 API Docs](https://eenzzi.notion.site/API-1a445cc04c9d811895d6df6fad7212c2?pvs=4)

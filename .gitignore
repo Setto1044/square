@@ -3,3 +3,5 @@ backend/.env
 .env
 
 devops/firebase/firebase-service-key.json
+
+/frontend/android/app/build/
